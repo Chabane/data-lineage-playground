@@ -8,5 +8,3 @@ This playground is a project for building a data lineage with Apache Spark and K
 - Coordinate multiple job into data lineage workflows so you can build and update bigdata apps quickly.
 - Event-driven architecture
 - Manage streaming workloads and leveraging service meshes using Istio
-
-<img src="https://image.ibb.co/iAtbkV/serverless-2.jpg"/>
